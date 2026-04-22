@@ -49,3 +49,10 @@ body {
     justify-content: center;
     padding: 1em;
     font-size
+
+    .contador {
+    font-size: 24px;
+    color: var(--verde);
+    font-weight: bold;
+    margin-top: 10px;
+}
